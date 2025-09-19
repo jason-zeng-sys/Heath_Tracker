@@ -1,4 +1,4 @@
-# UI-project-one
+# Heath tracker 
 # Submitted by MingZeng
 
 Live website : https://ui-project-one-tau.vercel.app/
